@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a31c0b7.chunk.css",
+    "main.js": "/static/js/main.e20c9e09.chunk.js",
+    "main.js.map": "/static/js/main.e20c9e09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f13abac7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f13abac7.js.map",
+    "static/css/2.7b82410d.chunk.css": "/static/css/2.7b82410d.chunk.css",
+    "static/js/2.4aca917e.chunk.js": "/static/js/2.4aca917e.chunk.js",
+    "static/js/2.4aca917e.chunk.js.map": "/static/js/2.4aca917e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7b82410d.chunk.css.map": "/static/css/2.7b82410d.chunk.css.map",
+    "static/css/main.1a31c0b7.chunk.css.map": "/static/css/main.1a31c0b7.chunk.css.map",
+    "static/js/2.4aca917e.chunk.js.LICENSE.txt": "/static/js/2.4aca917e.chunk.js.LICENSE.txt",
+    "static/media/4u.b1aeb6ef.svg": "/static/media/4u.b1aeb6ef.svg",
+    "static/media/arrow.5a12e1ea.svg": "/static/media/arrow.5a12e1ea.svg",
+    "static/media/calc_icon.16f085d0.svg": "/static/media/calc_icon.16f085d0.svg",
+    "static/media/chart2_icon.03851ca4.svg": "/static/media/chart2_icon.03851ca4.svg",
+    "static/media/chart_icon.60833fdf.svg": "/static/media/chart_icon.60833fdf.svg",
+    "static/media/closed_icon.5568e0ff.svg": "/static/media/closed_icon.5568e0ff.svg",
+    "static/media/config_icon.0ebc36dd.svg": "/static/media/config_icon.0ebc36dd.svg",
+    "static/media/gold_icon.331eefad.svg": "/static/media/gold_icon.331eefad.svg",
+    "static/media/loading.149a7823.gif": "/static/media/loading.149a7823.gif",
+    "static/media/news_icon.34c315ec.svg": "/static/media/news_icon.34c315ec.svg",
+    "static/media/open_icon.3b15e455.svg": "/static/media/open_icon.3b15e455.svg",
+    "static/media/pig_icon.745b2013.svg": "/static/media/pig_icon.745b2013.svg",
+    "static/media/return_icon.fabe77dd.svg": "/static/media/return_icon.fabe77dd.svg",
+    "static/media/sum_icon.4a78657f.svg": "/static/media/sum_icon.4a78657f.svg",
+    "static/media/text_logo.0f9b0cd4.svg": "/static/media/text_logo.0f9b0cd4.svg",
+    "static/media/transactions_icon.55d7ebce.svg": "/static/media/transactions_icon.55d7ebce.svg",
+    "static/media/wallet_icon.1bc2857a.svg": "/static/media/wallet_icon.1bc2857a.svg",
+    "static/media/wallet_logo.a95a840d.svg": "/static/media/wallet_logo.a95a840d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13abac7.js",
+    "static/css/2.7b82410d.chunk.css",
+    "static/js/2.4aca917e.chunk.js",
+    "static/css/main.1a31c0b7.chunk.css",
+    "static/js/main.e20c9e09.chunk.js"
+  ]
+}
